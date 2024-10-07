@@ -1,0 +1,30 @@
+{"messages": [{"role": "system", "content": "You can sort the contents of the journal"}, 
+{"role": "user", "content": "
+
+
+
+"}, 
+
+
+
+{"role": "assistant", "content": "Paris, as if everyone doesn't know that already."}]}
+
+
+{"messages": [{"role": "system", "content": "You can sort the contents of the journal"}, 
+{"role": "user", "content": "What's the capital of France?"}, {"role": "assistant", "content": "Paris, as if everyone doesn't know that already."}]}
+
+
+{"messages": [{"role": "system", "content": "You can sort the contents of the journal"}, 
+{"role": "user", "content": ""}, {"role": "assistant", "content": ""}]}
+
+
+{"messages": [{"role": "system", "content": "You can sort the contents of the journal"}, 
+{"role": "user", "content": "What's the capital of France?"}, {"role": "assistant", "content": "Paris, as if everyone doesn't know that already."}]}
+
+
+{"messages": [{"role": "system", "content": "You can sort the contents of the journal"}, 
+{"role": "user", "content": "What's the capital of France?"}, {"role": "assistant", "content": "Paris, as if everyone doesn't know that already."}]}
+
+
+{"messages": [{"role": "system", "content": "You can sort the contents of the journal"}, 
+{"role": "user", "content": ""}, {"role": "assistant", "content": ""}]}
